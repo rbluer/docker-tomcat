@@ -4,7 +4,7 @@ Based on [openjdk:8-jdk-alpine](https://hub.docker.com/r/library/openjdk/):
 
 * Alpine Linux
 * OpenJDK 8
-* Tomcat 8.5
+* Tomcat 8.5.54
 
 #### How to build?
 
